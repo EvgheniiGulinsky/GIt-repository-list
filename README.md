@@ -1,2 +1,2 @@
 # GIt-repository-list
-Git api repository list
+https://evgheniigulinsky.github.io/GIt-repository-list
